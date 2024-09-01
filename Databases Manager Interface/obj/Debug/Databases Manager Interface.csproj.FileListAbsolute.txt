@@ -1,0 +1,38 @@
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\bin\Debug\Databases Manager Interface.exe.config
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\bin\Debug\Databases Manager Interface.exe
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\bin\Debug\Databases Manager Interface.pdb
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.csproj.AssemblyReference.cache
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.AddForm.resources
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form1.resources
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Properties.Resources.resources
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.csproj.GenerateResource.cache
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.csproj.CoreCompileInputs.cache
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Database.5E9211E7.Up2Date
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.exe
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.pdb
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form3.resources
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form4.resources
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form5.resources
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form6.resources
+C:\Users\potes\OneDrive\Рабочий стол\Golang\Projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form7.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\bin\Debug\Databases Manager Interface.exe.config
+C:\golang\projects\PostgresUtility\Databases Manager Interface\bin\Debug\Databases Manager Interface.exe
+C:\golang\projects\PostgresUtility\Databases Manager Interface\bin\Debug\Databases Manager Interface.pdb
+C:\golang\projects\PostgresUtility\Databases Manager Interface\bin\Debug\Newtonsoft.Json.dll
+C:\golang\projects\PostgresUtility\Databases Manager Interface\bin\Debug\Newtonsoft.Json.xml
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.csproj.AssemblyReference.cache
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.AddForm.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form1.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form3.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form4.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form5.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form6.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Form7.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases_Manager_Interface.Properties.Resources.resources
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.csproj.GenerateResource.cache
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.csproj.CoreCompileInputs.cache
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Database.5E9211E7.Up2Date
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.exe
+C:\golang\projects\PostgresUtility\Databases Manager Interface\obj\Debug\Databases Manager Interface.pdb
